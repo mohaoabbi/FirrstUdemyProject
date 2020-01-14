@@ -7,7 +7,7 @@ public class testcase1 {
 		if (hungry=="yes") {
 			System.out.println("Go ahead and eat somthing");
 			else
-				System.out.println("Keep working.....");
+				System.out.println("Keep working..... otherwsie i will come to you");
 		}
 
 	}
